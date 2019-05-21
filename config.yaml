@@ -1,0 +1,22 @@
+---
+id: RubyConfPoland2019
+base_name: mrubyc---The-smallest-Ruby-implementation-for-microcontrollers
+tags:
+- mruby
+- mruby/c
+- IoT
+presentation_date: 2019/05/14
+version: 2019.05.14
+licenses: []
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :rd
+  name: HASUMI Hitoshi
+  email: hasumikin@gmail.com
+  rubygems_user: hasumikin
+  slideshare_user: 
+  speaker_deck_user: 
